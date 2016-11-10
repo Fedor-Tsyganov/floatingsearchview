@@ -46,7 +46,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    private final String TAG = "MainActivity";
+    private final String TAG = "CustomTag"; //replace with your own tag name
 
     public static final long FIND_SUGGESTION_SIMULATED_DELAY = 250;
 
